@@ -1,5 +1,5 @@
 # Hello, I'm Mohammed Nusrath Ullah Khan
-<a href="https://linkedin.com"><https://img.shields.io/badge/www.linkedin.com%2Fin%2Fmohammednuk/></a>
+<ahref="https://linkedin.com"><https://img.shields.io/badge/www.linkedin.com%2Fin%2Fmohammednuk/></a>
 
 [Brief Introduction - Remove this afterwards]
 
