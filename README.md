@@ -1,7 +1,5 @@
 # Hello, I'm Mohammed Nusrath Ullah Khan
-<ahref="https://linkedin.com"><https://img.shields.io/badge/www.linkedin.com%2Fin%2Fmohammednuk/></a>
-
-[Brief Introduction - Remove this afterwards]
+<ahref="https://linkedin.com"><https://img.shields.io/badge/www.linkedin.com%2Fin%2Fmohammednuk/>
 
 Passionate cybersecurity professional with hands-on SOC Analyst training in security monitoring, incident detection, and log analysis using Splunk. Experienced in penetration testing with Pentest+ certification, aiming to contribute and grow in dynamic security operations.
 
